@@ -1,0 +1,84 @@
+html body {
+    height: 100%;   
+    background-image: url(/images/Mask\ Group\ 1.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.navbar {
+    display: inline-block;
+   width: 100%;
+  
+   
+}
+.menuitem   {
+    display: inline-block;
+    margin-left: 50px;
+    margin-top: 20px;
+    color: #8E8E8E;
+    font-size: 18px;  
+    
+    
+}
+.logo {
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+nav ul {
+    float: right;
+}
+ul {
+    margin-right: 20px;
+}
+h1 {
+    font-size: 65px;
+    color: #211D1D;
+    text-align: center;
+    margin-top: 80px;
+    font-style: bold;
+}
+.liltext {
+    text-align: center;
+    color: #211D1D;
+    font-size: 18px;
+    margin-top: 10px;
+}
+.moneyback {
+    color: #32BBA4;
+}
+main {
+    display: inline-block;
+}
+.Starter_plan {
+    display: inline-block;
+    width: 364px;
+    height: 536px;
+    margin-top: 200px;
+    margin-left: 60px;
+}
+h2 {
+ font-size: 25px ;
+}
+.mainprice {
+    font-size: 36px;
+    color: #211D1D;
+    margin-top: 10px;
+
+}
+.billed {
+    font-size: 14px;
+    color: #A1A1A1;
+}
+.startindexing1 {
+    width: 150px;
+    height: 40px;
+    background-color: #410FF8;
+    color: white;
+    text-align: center;
+    font-size: 18px;
+    padding-top: 10px;
+    border: solid black 1px;
+    border-radius: 10px;
+}
