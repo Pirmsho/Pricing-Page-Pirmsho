@@ -52,14 +52,17 @@ main {
     display: inline-block;
 }
 .Starter_plan {
-    display: inline-block;
+    display: table-cell;
     width: 364px;
-    height: 536px;
+    height: 350px;
+   
     margin-top: 200px;
     margin-left: 60px;
+    text-align: center;
 }
 h2 {
  font-size: 25px ;
+ margin-top: 10px;
 }
 .mainprice {
     font-size: 36px;
@@ -81,4 +84,38 @@ h2 {
     padding-top: 10px;
     border: solid black 1px;
     border-radius: 10px;
+    margin-top: 10px;
+    margin-left: 150px;
+}
+.maintext_normal {
+    margin-top: 10px;
+    font-style: italic;
+    font-size: 20px;
+}
+.Advanced_plan {
+    display: table-cell;
+    width: 364px;
+    height: 350px;
+    
+    
+    margin-left: 60px;
+    text-align: center;
+    
+}
+.Pro_plan {
+    display: table-cell ;
+    width: 364px;
+    height: 350px;
+    
+    margin-top: 200px;
+    margin-left: 60px;
+    text-align: center;
+
+}
+main {
+    float: left;
+    display: table;
+    width: 100%;
+    margin-top: 80px;
+    
 }
